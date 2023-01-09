@@ -1,10 +1,10 @@
-| A certain student who codes in Python and Java
+| A certain student who codes in Python and Java. I mainly make Mindustry mods,
+  contribute to open-source projects, and maintain packages.
 | Learning: Nix, Clojure
-| Distro: Gentoo and NixOS
-Hobby: rhythm games (Cytoid, Cytus II, osu!, etc)
-
+| Distros: Gentoo and NixOS
+| Hobbies: rhythm games (Cytoid, Cytus II, pjsk, etc)
+|
 | Discord: Weathercold#7164
+| Matrix: weathercold:matrix.org
 | Cytoid: `weathercold (decayed) <https://cytoid.io/profile/weathercold>`_
-osu!: `Weathercold <https://osu.ppy.sh/users/16989229>`_
-
-| ExtraLogging is broken for now, I will fix it when I find time to do so.
+| osu!: `Weathercold <https://osu.ppy.sh/users/16989229>`_
